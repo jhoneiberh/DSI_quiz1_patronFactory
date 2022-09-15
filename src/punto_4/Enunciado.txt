@@ -1,9 +1,7 @@
-Su grupo tiene comisionado el desarrollo de un sistema de información para la compañía de seguros
-Mutual Settlement, que vende por el momento Seguro de Vida de tres (3) tipos: Standard (50 millones),
-Deluxe (75 millones) y Premium (100 millones). Todos los seguros tienen: Nombre del Cliente y Precio. La
-compañía de seguros cuenta con un equipo de asesores por cada tipo de Seguro de Vida, así como un
-Coordinador para todos los asesores.
+Su grupo debe implementar un sistema de información para el evento Cali ExpoShow están invitados
+cuatro (4) casas de moda Vallecaucanas y para los exhibidores se contrató a la empresa constructora
+StandDecor:
 
-Utilizando alguno de los Patrones vistos en clase, diseñe un proyecto NetBeans Java llamado
-Punto_1 que modele de manera general, los asesores, el coordinador y la creación de lostres (3) tipos
-de seguro.
+Utilizando alguno de los Patrones vistos en clase, diseñe un proyecto NetBeans java llamado
+Punto_4 que modele de manera general la elaboración de los stand para cada una de las casas de
+moda invitadas
